@@ -7,8 +7,8 @@ return`╭──「 📖  *PRICE JADIBOT*」
 │
 ├ • *Permanen*
 │
-│ ⤷ *Harga :  25k [E-Wallet]*
-│ ⤷ *Harga :  28k [Pulsa]*
+│ ⤷ *Harga :  10K [E-Wallet]*
+│ ⤷ *Harga :  20K [Pulsa]*
 │
 ├─ 「 💰  *PAYMENT* 」
 │
