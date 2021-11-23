@@ -15,7 +15,7 @@ return`╭──「 📖  *PRICE JADIBOT*」
 │ ⤷ *Dana [Diutamakan]*
 │ ⤷ *Ovo*
 │ ⤷ *Gopay*
-│ ⤷ *Pulsa Telkom*
+│ ⤷ *Pulsa Smartfren*
 │
 ├─ 「 👨‍💻  *RUN ON* 」
 │
